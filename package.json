@@ -1,0 +1,1 @@
+{"engines":{"node":">=22"},"name":"ai-excited-04","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
